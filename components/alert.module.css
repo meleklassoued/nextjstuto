@@ -1,0 +1,14 @@
+.default {
+    color: blue;
+}
+
+
+
+.success {
+    color: green;
+
+}
+
+.error {
+    color: red;
+}
